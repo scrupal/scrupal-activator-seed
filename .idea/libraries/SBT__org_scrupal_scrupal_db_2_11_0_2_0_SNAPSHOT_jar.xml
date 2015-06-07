@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.scrupal:scrupal-db_2.11:0.2.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.scrupal/scrupal-db_2.11/0.2.0-SNAPSHOT/jars/scrupal-db_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.scrupal/scrupal-db_2.11/0.2.0-SNAPSHOT/docs/scrupal-db_2.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/org.scrupal/scrupal-db_2.11/0.2.0-SNAPSHOT/srcs/scrupal-db_2.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
